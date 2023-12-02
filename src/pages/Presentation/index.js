@@ -44,7 +44,7 @@ import Download from "pages/Presentation/sections/Download";
 // import footerRoutes from "footer.routes";
 
 // Images
-import bgImage from "assets/images/bg-presentation.jpg";
+import bgImage from "assets/images/bloggraphic-blockchains-01-1-2048x1117.png";
 
 function Presentation() {
   return (

@@ -50,15 +50,29 @@ function Download() {
         <Container sx={{ position: "relative", zIndex: 2, py: 12 }}>
           <Grid container item xs={12} md={7} justifyContent="center" mx="auto" textAlign="center">
             <MKTypography variant="h3" color="white">
-              Do you love this awesome
-            </MKTypography>
-            <MKTypography variant="h3" color="white" mb={1}>
-              UI Kit for ReactJS &amp; MUI?
+              About Us Cryptologic
             </MKTypography>
             <MKTypography variant="body2" color="white" mb={6}>
-              Founded on the promise of financial empowerment. Hit the button below to navigate to
-              Creative Tim where you can find the Design System in HTML. Start a new project or give
-              an old Bootstrap project a new look!
+              Founded on the promise of financial empowerment, Cryptologic stands as a cutting-edge
+              cryptocurrency exchange that mirrors the innovation and scope of industry leaders like
+              Binance. Headquartered in the digital heart of the blockchain revolution, Cryptologic
+              has been at the forefront of democratizing finance since its inception. Business Model
+              Cryptologic offers a comprehensive array of trading options, including spot trading,
+              futures, and margin trading, catering to both novice and seasoned investors. Our
+              revenue model is designed around competitive trading fees, withdrawal fees, and
+              value-added services within our ecosystem, which include staking, lending, and
+              institutional-grade custody solutions. Operations Our platform employs
+              state-of-the-art technology to ensure high throughput and low-latency transactions,
+              providing our users with an exceptional trading experience. Cryptologic operates under
+              strict regulatory compliance, ensuring a secure trading environment with robust AML
+              and KYC protocols. Organizational Structure Helmed by a team of fintech veterans and
+              blockchain pioneers, Cryptologic boasts a culture of innovation, agility, and
+              transparency. Our dynamic team is dedicated to pushing the boundaries of what a crypto
+              exchange can offer. Market Position Cryptologic’s competitive edge lies in our
+              user-centric design, cutting-edge technology, and unwavering commitment to customer
+              service. We have positioned ourselves as a trusted platform in the crypto space,
+              focused on offering comprehensive trading tools, educational resources, and 24/7
+              customer support
             </MKTypography>
             <MKButton
               variant="gradient"
