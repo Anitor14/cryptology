@@ -86,13 +86,6 @@ function Information() {
                   description="Cryptologic is poised for expansion, with plans to introduce new products and enter new markets."
                 />
               </Grid>
-              <Grid item xs={12} md={6}>
-                <DefaultInfoCard
-                  icon="devices"
-                  title="Fully Responsive"
-                  description="Regardless of the screen size, the website content will naturally fit the given resolution."
-                />
-              </Grid>
             </Grid>
           </Grid>
         </Grid>
