@@ -20,7 +20,6 @@ import Grid from "@mui/material/Grid";
 
 // Material Kit 2 React components
 import MKBox from "components/MKBox";
-import MKButton from "components/MKButton";
 import MKTypography from "components/MKTypography";
 
 // Images
@@ -72,18 +71,8 @@ function Download() {
               user-centric design, cutting-edge technology, and unwavering commitment to customer
               service. We have positioned ourselves as a trusted platform in the crypto space,
               focused on offering comprehensive trading tools, educational resources, and 24/7
-              customer support
+              customer support.
             </MKTypography>
-            <MKButton
-              variant="gradient"
-              color="info"
-              size="large"
-              component="a"
-              href="https://www.creative-tim.com/product/material-kit-react"
-              sx={{ mb: 2 }}
-            >
-              Download Now
-            </MKButton>
           </Grid>
         </Container>
       </MKBox>
